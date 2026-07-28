@@ -1,5 +1,7 @@
 .class
-/target
-/.settings
+target/
+.settings/
+bin/
+.idea/
 .classpath
 .project
